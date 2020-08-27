@@ -18,7 +18,7 @@ O candidato deve utilizar [React](https://reactjs.org/) para desenvolver o desaf
 
 ---
 ### Recursos
-Confirma abaixo os recursos que devem ser implementados na aplicação:
+Confirma abaixo os recursos que devem ser implementados na aplicação: 
 
 ---
 #### Pessoa
