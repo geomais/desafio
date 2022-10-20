@@ -1,6 +1,5 @@
-<img src="https://www.vagasfloripa.com.br/wp-content/uploads/company_logos/2018/06/logo-geomais_Novo.png"
-     alt="Markdown Monster icon"
-     style="width: 400px"/>
+<img src="http://www.geomais.com.br/images/logo.png"
+     alt="Geomais Logo" />
 </br>
 # Desafio Geomais
 ## Cadastro de pessoas
@@ -13,8 +12,8 @@ O candidato deve utilizar [React](https://reactjs.org/) para desenvolver o desaf
 
 1. Utilize esse repositorio como [**template**](https://github.com/geomais/desafio/generate)
 2. Crie o projeto *React* na pasta **front-end** do repositório.
-3. Utilize a fake-api desde mesmo repositorio como api do seu projeto.
-4. Após finalizar o desafio, envie um e-mail para a suporte@geomais.com.br, com o titulo 'Desafio Geomias (Seu nome)'
+3. Utilize a fake-api deste mesmo repositorio como api do seu projeto.
+4. Após finalizar o desafio, envie um e-mail para a desenvolvimento@geomais.com.br, com o titulo 'Desafio Geomias (Seu nome)'
 7. Aguarde algum contribuidor realizar o code review, e entrar em contato para agendar a segunda etapa da entrevista.
 
 ---
